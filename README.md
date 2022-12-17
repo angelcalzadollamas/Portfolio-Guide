@@ -9,4 +9,12 @@ Welcome to my portfolio, where we will see an overview of the projects I have wo
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
+# Python
+
+Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, deep learning
+
+| Project Name | Area | Description | Libraries |
+|---|---|---|---|
+
+
 _this portfolio guide is inspired by @katiehuangx_
