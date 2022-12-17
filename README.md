@@ -1,5 +1,7 @@
 # 🖼 Portfolio Guide
 
+_...I am working on that site, it will finish soon! 👷‍♂️..._
+
 Hi everyone! 😃
 
 Welcome to my portfolio, where we will see an overview of the projects I have worked on during my studies and on my own initiative. I hope this is the start of many more projects 🙌
