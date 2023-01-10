@@ -17,6 +17,7 @@ Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, dee
 
 | Project Name | Area | Description | Libraries |
 |---|---|---|---|
+| :book: [Neural Networking in Keras and ScikitLearn]() | Deep Learning | build a multi-layer artificial neural network that fits the data in the attached CSV file: diabetes.csv. Introduction to basic neural networks | ScikitLearn
 
 
 _this portfolio guide is inspired by @katiehuangx_
