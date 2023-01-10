@@ -18,6 +18,7 @@ Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, dee
 | Project Name | Area | Description | Libraries |
 |---|---|---|---|
 | :book: [Neural Networking in Keras and ScikitLearn](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio1/angcallla_ejercicio1.ipynb) | Deep Learning | build a multi-layer artificial neural network that fits the data in the attached CSV file: diabetes.csv. Introduction to basic neural networks | ScikitLearn
+| :mask: [Mask detection](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio2/angcallla_ejercicio2.ipynb) | Deep Learning | Work with a dataset of images of people wearing and not wearing masks and create neural networks that detect when they do and do not wear masks. | Keras
 
 
 _this portfolio guide is inspired by @katiehuangx_
