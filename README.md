@@ -1,6 +1,6 @@
 # 🖼 Portfolio Guide
 
-_...I am working on that site, it will finish soon! 👷‍♂️..._
+_...I am working on that site, it will be finished soon! 👷‍♂️..._
 
 Hi everyone! 😃
 
