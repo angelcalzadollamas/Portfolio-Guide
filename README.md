@@ -17,8 +17,10 @@ Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, dee
 
 | Project Name | Area | Description | Libraries |
 |---|---|---|---|
-| :book: [Neural Networking in Keras and ScikitLearn](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio1/angcallla_ejercicio1.ipynb) | Deep Learning | build a multi-layer artificial neural network that fits the data in the attached CSV file: diabetes.csv. Introduction to basic neural networks | ScikitLearn
-| :mask: [Mask detection](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio2/angcallla_ejercicio2.ipynb) | Deep Learning | Work with a dataset of images of people wearing and not wearing masks and create neural networks that detect when they do and do not wear masks. | Keras
+| :book: [Neural Networking in Keras and ScikitLearn](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio1/angcallla_ejercicio1.ipynb) | Deep Learning | build a multi-layer artificial neural network that fits the data in the attached CSV file: diabetes.csv. Introduction to basic neural networks | ScikitLearn |
+| 📖 [First Keras example](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_practica3.3/Practica3.3.%20Keras%20un%20primer%20ejemplo.ipynb) | Deep Learning | In section 5 - Modifying the configuration of the model seeking an improvement in number recognition | Keras |
+| :book: [Binary classification](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_practica3.4/Practica3.4.%20Keras%20clasificacion%20binaria.ipynb) | Deep Learning | In section 7 -  Modifying the configuration of the model seeking an improvement in the sentiment analysis of IMDB reviews  | Keras |
+| :mask: [Mask detection](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio2/angcallla_ejercicio2.ipynb) | Deep Learning | Work with a dataset of images of people wearing and not wearing masks and create neural networks that detect when they do and do not wear masks. | Keras |
 
 
 _this portfolio guide is inspired by @katiehuangx_
