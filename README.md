@@ -7,11 +7,12 @@ Hi everyone! 😃
 Welcome to my portfolio, where we will see an overview of the projects I have worked on during my studies and on my own initiative. I hope this is the start of many more projects 🙌
 
 ## 📚 Table of Contents
-- [Python](#python)
+- [Machine Learning and Deep Learning](machine-learning-and-deep-learning)
+- [Web development](web-development)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
-# Python
+# Machine Learning and Deep Learning
 
 Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, deep learning
 
@@ -22,7 +23,14 @@ Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, dee
 | :book: [Binary classification](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_practica3.4/Practica3.4.%20Keras%20clasificacion%20binaria.ipynb) | Deep Learning | In section 7 -  Modifying the configuration of the model seeking an improvement in the sentiment analysis of IMDB reviews  | Keras |
 | :book: [Multiclass classification](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_practica3.5/Pr%C3%A1ctica3.5.%20Keras%20clasificaci%C3%B3n%20multiclase.ipynb) | Deep Learning | In section 10 - Modifying the configuration of the model seeking an improvement in the classification of news topics | Keras |
 | :mask: [Mask detection](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_ejercicio2/angcallla_ejercicio2.ipynb) | Deep Learning | Work with a dataset of images of people wearing and not wearing masks and create neural networks that detect when they do and do not wear masks. | Keras |
-| :book: [Introduction to Convolutional Networks](https://github.com/angelcalzadollamas/DeepLearningSignature/blob/main/angcallla_practica5.1/Practica5.1.ipynb) | Deep Learning | In section 3 - Construction of a convolutional network to classify and detect the garment type of the Fashion MNIST input images | Keras |
+
+# Web Development
+
+Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, deep learning
+
+| Project Name | Description | Technologies |
+|---|---|---|
+| 📚: [First React Application](https://github.com/angelcalzadollamas/dgeu-entregable1) | Install, configure and code my first react application and components | TypeScript, JavaScript, HTML, SCSS, Node.js, React |
 
 
 
