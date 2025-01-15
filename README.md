@@ -30,7 +30,8 @@ Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, dee
 
 | Project Name | Description | Technologies |
 |---|---|---|
-| 📚: [First React Application](https://github.com/angelcalzadollamas/dgeu-entregable1) | Install, configure and code my first react application and components | TypeScript, JavaScript, HTML, SCSS, Node.js, React |
+| 📚 [First React Application](https://github.com/angelcalzadollamas/dgeu-entregable1) | Install, configure and code my first react application and components | TypeScript, JavaScript, HTML, SCSS, Node.js, React |
+| ☕ [Review Java and Spring Application](https://github.com/angelcalzadollamas/HolaMundoSpring) | Review of updated Java and Spring versions | Java 17, Spring Boot 3, Spring Data/JPA, Thymeleaf, Maven, Eclipse, MySQL |
 
 
 
