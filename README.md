@@ -32,6 +32,7 @@ Skills: Data cleaning, visualisation, analysis, wrangling, machine learning, dee
 |---|---|---|
 | 📚 [First React Application](https://github.com/angelcalzadollamas/dgeu-entregable1) | Install, configure and code my first react application and components | TypeScript, JavaScript, HTML, SCSS, Node.js, React |
 | ☕ [Review Java and Spring Application](https://github.com/angelcalzadollamas/HolaMundoSpring) | Review of updated Java and Spring versions | Java 17, Spring Boot 3, Spring Data/JPA, Thymeleaf, Maven, Eclipse, MySQL |
+| 🛒 [Plan&Compra](https://github.com/angelcalzadollamas/plan-compra) | App web para optimizar el tiempo en la organización y planificación de la compra semanal. Incluye integración de agentes de IA, práctica de vibe coding e ingeniería del prompt. | React, TypeScript, Vite, GitHub Actions, AI Agents, Prompt Engineering |
 
 
 
